@@ -1,23 +1,22 @@
-import {useState} from 'react';
-import {FormattedInput} from 'react-fmt-input';
-
+import { useState } from "react";
+import { FormattedInput } from "react-fmt-input";
 
 export function App() {
-  const [phone, setPhone] = useState<string>('');
-  const [date1, setDate1] = useState<string>('');
-  const [date2, setDate2] = useState<string>('');
-  const [card, setCard] = useState<string>('');
+  const [phone, setPhone] = useState<string>("");
+  const [date1, setDate1] = useState<string>("");
+  const [date2, setDate2] = useState<string>("");
+  const [card, setCard] = useState<string>("");
 
   return (
-    <div style={{margin: 10, padding: 10, border: '1px solid gray'}}>
+    <div style={{ margin: 10, padding: 10, border: "1px solid gray" }}>
       <h1>FormattedInput Demo</h1>
       <div
         style={{
-          border: '1px solid lightgray',
+          border: "1px solid lightgray",
           padding: 10,
-          margin: '10px 0 20px 0',
-          color: 'gray',
-          backgroundColor: '#ffffb3',
+          margin: "10px 0 20px 0",
+          color: "gray",
+          backgroundColor: "#ffffb3"
         }}
       >
         <div>Escape - reset value</div>
