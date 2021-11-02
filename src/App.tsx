@@ -8,13 +8,13 @@ export function App() {
   const [card, setCard] = useState<string>("");
 
   return (
-    <div style={{ margin: 10 }}>
+    <div style={{ margin: 10, padding: 10, border: "1px solid gray" }}>
       <h1>FormattedInput Demo</h1>
       <div
         style={{
           border: "1px solid lightgray",
           padding: 10,
-          margin: 10,
+          margin: "10px 0 20px 0",
           color: "gray",
           backgroundColor: "#ffffb3"
         }}
