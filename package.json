@@ -1,5 +1,5 @@
 {
-  "name": "react-formatted-input",
+  "name": "formatted-input-demo",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -7,7 +7,7 @@
   "dependencies": {
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-fmt-input": "1.0.9",
+    "react-fmt-input": "1.0.12",
     "react-scripts": "4.0.3"
   },
   "devDependencies": {
