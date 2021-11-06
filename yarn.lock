@@ -9011,10 +9011,10 @@ react-error-overlay@^6.0.9:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.9.tgz#3c743010c9359608c375ecd6bc76f35d93995b0a"
   integrity sha512-nQTTcUu+ATDbrSD1BZHr5kgSD4oF8OFjxun8uAaL8RwPBacGBNPf/yAuVVdx17N8XNzRDMrZ9XcKZHCjPW+9ew==
 
-react-fmt-input@1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/react-fmt-input/-/react-fmt-input-1.4.0.tgz#4f3a4c0d72598de2e011ca51498b968fdd3b0321"
-  integrity sha512-P+fCT7cKy3VU+RRgjvzbx+xsfXm72Q7CfMYFWzh+D4fofhBznV6tn4V/pt2wz50km3qcyOdg9X32eeuXCbC9pQ==
+react-fmt-input@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/react-fmt-input/-/react-fmt-input-1.5.0.tgz#52cb51765c71ea30dbb83de67f4821d5b59dd54f"
+  integrity sha512-5wy8nUIKQ6GoXAAdy0c3SvnRqZn2cDr+rIPyiyxVRiygzOVMaUjTjya3pBdrwMzH1SsIK7wC3orIDbN2OzC56Q==
   dependencies:
     cross-env "^7.0.3"
 
