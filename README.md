@@ -1,2 +1,14 @@
 # formatted-input-demo
-Created with CodeSandbox
+
+![demo](/images/formatted-input.gif)
+
+## Run
+
+```sh
+yarn
+yarn start
+```
+
+## Vercel demo
+
+https://react-formatted-input.vercel.app/
